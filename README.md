@@ -2,9 +2,14 @@
 
 ## Overview
 
+This is a project created for the 2025 University of Toronto Engineering Kompetition (UTEK) programming competition. The
+project is a
+front-end website that enhances rescue coordination during earthquakes.
+
 ## Features
 
-- Collects user data during emergency and need for rescue.
+- Collect user information when in danger.
+- Facilities are able to access the information of users in danger and distribute help accordingly.
 
 ## Tech Stack
 
