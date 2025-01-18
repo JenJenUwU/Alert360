@@ -77,6 +77,7 @@ export default function Home() {
         // On button click, add the updated entry to the JSON data
         addJsonData(newEntry);
 
+        alert("Form submitted successfully!");
         // Clear form
         setFull_name("");
         setLatitude("");
@@ -320,7 +321,7 @@ export default function Home() {
                         type="submit"
                         className="mt-6 rounded-full border border-solid border-transparent transition-colors bg-blue-500 text-white text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 hover:bg-blue-600"
                     >
-                        Add to JSON
+                        Submit
                     </button>
                 </form>
                 {/* View Stored JSON */}
