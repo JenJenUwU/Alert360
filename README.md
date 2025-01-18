@@ -5,7 +5,12 @@
 ## Features
 
 - Collects user data during emergency and need for rescue.
--
+
+## Tech Stack
+
+- [React](https://reactjs.org) - JavaScript/TypeScript library for building user interfaces.
+- [Next.js](https://nextjs.org) - React framework for server routing.
+- [Tailwind CSS](https://tailwindcss.com) - CSS styling framework.
 
 ## How to Run Locally
 
